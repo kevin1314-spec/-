@@ -1,0 +1,64 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: WordGLXT - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP124.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/WordGLXT.pdb" /debug /machine:I386 /out:"Debug/WordGLXT.exe" /pdbtype:sept /libpath:"../Lib" 
+".\Debug\ADOConn.obj"
+".\Debug\Dialogin.obj"
+".\Debug\Dwdandlg.obj"
+".\Debug\Dwxxb.obj"
+".\Debug\FileAttri.obj"
+".\Debug\KLxgdlg.obj"
+".\Debug\msword9.obj"
+".\Debug\Rizhib.obj"
+".\Debug\StdAfx.obj"
+".\Debug\Users.obj"
+".\Debug\WDgldlg.obj"
+".\Debug\Wdlbiedlg.obj"
+".\Debug\WordGLXT.obj"
+".\Debug\WordGLXTDlg.obj"
+".\Debug\YHgldlg.obj"
+".\Debug\Zdmlb.obj"
+".\Debug\Zdxxb.obj"
+".\Debug\WordGLXT.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP124.tmp"
+<h3>Output Window</h3>
+Linking...
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP126.tmp" with contents
+[
+/nologo /o"Debug/WordGLXT.bsc" 
+".\Debug\StdAfx.sbr"
+".\Debug\ADOConn.sbr"
+".\Debug\Dialogin.sbr"
+".\Debug\Dwdandlg.sbr"
+".\Debug\Dwxxb.sbr"
+".\Debug\FileAttri.sbr"
+".\Debug\KLxgdlg.sbr"
+".\Debug\msword9.sbr"
+".\Debug\Rizhib.sbr"
+".\Debug\Users.sbr"
+".\Debug\WDgldlg.sbr"
+".\Debug\Wdlbiedlg.sbr"
+".\Debug\WordGLXT.sbr"
+".\Debug\WordGLXTDlg.sbr"
+".\Debug\YHgldlg.sbr"
+".\Debug\Zdmlb.sbr"
+".\Debug\Zdxxb.sbr"]
+Creating command line "bscmake.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP126.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+WordGLXT.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
